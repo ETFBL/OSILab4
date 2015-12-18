@@ -13,6 +13,12 @@ void f()
     printf ("HI hi hi hi ");
 }
 
+void Aleksej()
+{
+    printf("Aleksej je ljubav, Aleksej je zivot!\n");
+}
+
+
 int main(int argc, char** argv) {
     printf("Lab 4");
     f();
