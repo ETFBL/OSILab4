@@ -8,6 +8,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void Aleksej()
+{
+    printf("Aleksej je ljubav, Aleksej je zivot!\n");
+}
+
 void f()
 {
     printf ("HI hi hi hi ");
