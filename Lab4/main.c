@@ -12,6 +12,11 @@ void f()
 {
     printf ("HI hi hi hi ");
 }
+
+void jaje() {
+	printf("JAJE");
+}
+
 int main(int argc, char** argv) {
     printf("Lab 4");
     f();
